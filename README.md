@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Renaldo</h1>
 <h3 align="center">A passionate full-stack developer working in Australia</h3>
 
+
+## 🙋‍♂️ About Me
+
 - 🔭 I’m currently working on **projects related to Windows desktop app**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SmartRenaldo?tab=repositories](https://github.com/SmartRenaldo?tab=repositories)
