@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SmartRenaldo?tab=repositories](https://github.com/SmartRenaldo?tab=repositories)
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript, Java, C#, AWS, Microservice**
+- 💬 Ask me about **React, HTML, CSS, JavaScript, Java, C#, AWS, Microservices**
 
 - 📫 How to reach me **awesomerenaldo@gmail.com**
 
