@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=48&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+There!+%F0%9F%91%8B+I'm+Renaldo+Li!;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+A+Full+Stack+Software+Developer+🫡;Mastery+in+ASP.NET,+React,+and+Vue+✅" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=48&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+There!+%F0%9F%91%8B+I'm+Yiqi+Li!;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+A+Full+Stack+Software+Developer+🫡;Mastery+in+ASP.NET,+React,+and+Vue+✅" alt="Typing SVG" />
 </h1>
 
 
@@ -10,7 +10,7 @@
 
 - 🎓 Graduated with a Master of Computing and Innovation from The University of Adelaide (GPA: 6.438 / 7.0).
 
-- 💼 With 3 years' experience as a full-stack developer, I specialise in ASP .NET, React, and Vue.
+- 💼 With 4+ years' experience as a full-stack developer, I specialise in ASP .NET, React, and Vue.
 
 - 🔧 I’ve led and architected several projects, taking them through the full software development lifecycle—from concept to delivery.
 
